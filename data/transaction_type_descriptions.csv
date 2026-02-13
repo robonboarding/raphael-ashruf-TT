@@ -1,0 +1,8 @@
+transaction_type_code,transaction_type_description
+po,payment order
+pt,payment terminal
+pr,payment request
+cc,creditcard
+at,ATM terminal
+rf,refund
+pt,payment terminal
